@@ -1,0 +1,22 @@
+﻿[20:51:53 04-1月-2018]Campus City 17 has been established.
+[20:51:53 04-1月-2018]Establishing Building: Black Mesa(BKM)
+[20:51:53 04-1月-2018]Building Black Mesa(BKM) established.
+[20:51:53 04-1月-2018]Establishing Building: Ravenholm(RVH)
+[20:51:53 04-1月-2018]Building Ravenholm(RVH) established.
+[20:51:53 04-1月-2018]Room Established: BKM101(Lecture Hall) Mode: Normal
+[20:51:53 04-1月-2018]Room Established: BKM102(Student Lab) Mode: Normal
+[20:51:53 04-1月-2018]Room Established: BKM103(Researh Lab) Mode: Normal
+[20:51:53 04-1月-2018]Room Established: BKM104(Staff Room) Mode: Normal
+[20:51:53 04-1月-2018]Room Established: BKM105(Secure Room) Mode: Normal
+[20:51:53 04-1月-2018]Room Established: RVH101(Lecture Hall) Mode: Normal
+[20:51:53 04-1月-2018]Room Established: RVH102(Student Lab) Mode: Normal
+[20:51:53 04-1月-2018]Room Established: RVH103(Researh Lab) Mode: Normal
+[20:51:53 04-1月-2018]Room Established: RVH104(Staff Room) Mode: Normal
+[20:51:53 04-1月-2018]Room Established: RVH105(Secure Room) Mode: Normal
+[20:51:53 04-1月-2018]User created: Alyx Vance (Visitor/Guest), ID: 1111111
+[20:51:53 04-1月-2018]User created: Gorden Freeman (Student), ID: 2222222
+[20:51:53 04-1月-2018]User created: Eli Vance (Staff), ID: 3333333
+[20:51:54 04-1月-2018]User created: Vortigaunt (Contract Cleaner), ID: 4444444
+[20:51:54 04-1月-2018]User created: Barney Calhoun (Security), ID: 5555555
+[20:51:54 04-1月-2018]User created: Wallace Breen (Manager), ID: 6666666
+[20:51:54 04-1月-2018]User created: G-MAN (Emergency Responder), ID: 7777777
